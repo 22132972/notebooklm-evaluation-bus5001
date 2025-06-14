@@ -1,4 +1,4 @@
-# NotebookLM Evaluation – BUS5001 Assignment04
+# NotebookLM Evaluation – BUS5001 Assignment 04
 
 ## Summary
 
@@ -7,7 +7,7 @@ This repository contains a simulated evaluation of Google NotebookLM for academi
 ## Scenarios Tested
 1. **Summary Prompt**
    - Prompt: "Can you summarize the three cloud service models discussed in this lecture?"
-   - Screenshot: `summary-query.png`
+   - Screenshot: ``
 
 2. **Concept Clarification**
    - Prompt: "What is the shared responsibility model in cloud computing?"
